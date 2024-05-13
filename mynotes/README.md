@@ -23,5 +23,5 @@ source env/bin/activate
 
 --> To run the Notes App, we use :
 
-Running the App
+# Running the App
 python manage.py runserver
