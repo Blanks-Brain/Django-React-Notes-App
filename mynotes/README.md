@@ -21,7 +21,6 @@ python -m venv env
 # If you are on Linux or Mac
 source env/bin/activate
 
---> To run the Notes App, we use :
-
 # Running the App
+--> To run the Notes App, we use :
 python manage.py runserver
